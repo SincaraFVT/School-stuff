@@ -1,2 +1,2 @@
 # School-stuff
-For Web design [Elizabet Grozdek]
+For Web design
