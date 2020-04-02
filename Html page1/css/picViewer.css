@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	background-image: linear-gradient(to bottom, #0b1214, #121a1c, #172225, #1c2a2e, #213237);
+}
+
+.pictureView{
+	text-align: center;
+	margin: 200px;
+}
+
+.img{
+	width: 60%;
+	border-radius: 10px;
+}
+
+.mistake{
+	text-align: center;
+	margin: 150px;
+}
