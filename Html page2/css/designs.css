@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	background-image: radial-gradient(circle, #b5f5ff, #a9e6f0, #9cd8e1, #90cad2, #84bcc4);
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	color: #FFF;
+}
+
+.formContent{
+	background-color: #5A7580;
+	border: 5px solid #5A7580;	
+	border-radius: 10px;
+	position: relative;
+	width: 25%;
+	margin-left: 37.5%;
+	margin-top: 11%;
+}
+
+form{
+	margin: 0 19%;
+}
+
+.block{
+	display: block;
+	width: 100%;
+}
+
+input{
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	margin: 25px 0;
+}
+
+input:hover{
+	background-color: #F1F1F1;
+	cursor: auto;
+}
+
+.darken:hover{
+	cursor: pointer;
+}
+
+label:hover{
+	cursor: auto;
+}
+
+input[type="submit"]{
+	border: none;
+	background-color: #FFF;
+	width: 40%;
+	height: 50px;
+	border-radius: 5px;
+	margin-left: 29%;
+}
+
+input[type="submit"]:hover{
+	background-color: #F1F1F1;
+	cursor: pointer;
+}
+
